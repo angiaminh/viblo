@@ -839,6 +839,15 @@ footer div ul li img {
 		padding: 0 0;
 		text-align: center;
 	}
+	#content-available ul li {
+		margin-right: 0px;
+		text-align: center;
+	}
+	#content-available ul li img {
+		width: 90%;
+		text-align: center;
+		margin-right: 0px;
+	}
 	#get-in-touch input {
 		max-width: 100%;
 	}
