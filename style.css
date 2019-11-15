@@ -812,6 +812,7 @@ footer div ul li img {
 		padding-bottom: 10px;
 	}
 }
+<<<<<<< HEAD
 @media screen and (max-width: 500px) {
 
 	#hero {
@@ -847,6 +848,14 @@ footer div ul li img {
 	}
 
 }
+=======
+@media screen and (max-width: 768px) {
+	header {
+		display: inline-block;
+	}
+}
+
+>>>>>>> fe6c478894fe0cb58c2432dae0896193554cc70d
 
 
 
